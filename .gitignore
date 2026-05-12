@@ -1,0 +1,3 @@
+# Keep config.js off version control
+# Deploy it directly to your hosting server instead
+config.js
